@@ -1,5 +1,5 @@
 # telegram-bot
-[telegram](https://telegram.org/) 用のサンプルコード。
+[Telegram](https://telegram.org/) 用のサンプルコード。
 
 * 東京の直近の天気予報を教えてくれる
   * "天気予報" と入力
